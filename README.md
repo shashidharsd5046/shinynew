@@ -1,0 +1,2 @@
+# shinynew
+shiny in azure 
